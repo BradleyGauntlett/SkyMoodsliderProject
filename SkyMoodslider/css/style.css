@@ -1,0 +1,91 @@
+.centerlise {
+    text-align: center;
+    margin: 0;
+}
+
+.film-button{
+    font-family: Montserrat;
+    font-size: 22px;
+    margin-top: 30px;
+    color: floralwhite;
+    font-weight: 200;
+    text-align: center;
+    border-radius: 5%;
+    height: 60px;
+    width: 240px;
+    background: linear-gradient(#0073C5, #0073C5, #0073C5, #0073C5, lightblue);
+}
+
+.page-heading {
+    font-family: Montserrat;
+    font-size: 80px;
+    font-weight: 100;
+    text-align: center;
+}
+
+p {
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 100; 
+}
+
+img.logo {
+    height: 20%;
+    width: 20%;
+    vertical-align: middle;
+    padding-right: 80px;
+    text-align: left;
+}
+
+body {
+    
+}
+
+.percentage {
+    font-weight: 800;
+    color: lawngreen;
+}
+
+.img-panel {
+    width: 100px;
+    height: 100px;
+}
+
+.film-panel {
+    width: 50%;
+    padding: 10px;
+    margin-left: 25%;
+    border: 3px solid #0073C5;
+}
+
+.img-holder {
+    height: 120px;
+    width: 100px;
+}
+
+/*SLIDER FROM W3S*/
+.slidecontainer {
+    width: 100%;
+}
+
+.slider {
+    -webkit-appearance: none;
+    width: 70%;
+    height: 25px;
+    background: #d3d3d3;
+    vertical-align: middle;
+    outline: none;
+    opacity: 0.7;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+}
+
+.slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background: linear-gradient(to bottom right, orange, red, blue, cyan); 
+    cursor: pointer;
+}

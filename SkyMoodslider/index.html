@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sky | Moodslider</title>
+    <link href="css/style.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,700" rel="stylesheet">
+</head>
+    <header>
+        <h1 class="page-heading"><img src="assets/skylogo.jpg" align="middle" class="logo">Sky | Moodslider</h1>
+    </header>
+<body>
+    <div class="centerlise">
+        <div class="slidecontainer">
+            <p>Agitated
+                 <input type="range" min="1" max="9" value="5" class="slider" id="calmRange">
+                Calm
+            </p>
+          <p>Calmness: <span id="calm"></span></p>
+        </div>
+        
+        <div class="slidecontainer">
+            <p>Sad
+                 <input type="range" min="1" max="9" value="5" class="slider" id="happyRange">
+                Happy
+            </p>
+          <p>Happiness: <span id="happy"></span></p>
+        </div>
+        
+        <div class="slidecontainer">
+            <p>Tired
+                 <input type="range" min="1" max="9" value="5" class="slider" id="awakeRange">
+                Awake
+            </p>
+          <p>Tiredness: <span id="awake"></span></p>
+        </div>
+        
+        <div class="slidecontainer">
+            <p>Scared
+                 <input type="range" min="1" max="9" value="5" class="slider" id="scaredRange">
+                Fearless
+            </p>
+          <p>Fearlessness: <span id="scared"></span></p>
+        </div>
+        
+        <button class="film-button" type="button" onclick="loadXMLDoc()">Find Your Movie!</button>
+        <div id='showFilm'></div>
+    </div>
+    <script src="js/main.js"></script>
+</body>
+        
+</html>
