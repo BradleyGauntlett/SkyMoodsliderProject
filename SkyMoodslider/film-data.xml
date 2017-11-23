@@ -3,60 +3,60 @@
         <TITLE>Hot Fuzz</TITLE>
         <MOOD>Happy</MOOD>
         <MOODVAL>7</MOODVAL>
-        <IMGSRC>/assets/hotfuzz.jpg</IMGSRC>
+        <IMGSRC>assets/hotfuzz.jpg</IMGSRC>
     </FILM>
     <FILM>
         <TITLE>Titanic</TITLE>
         <MOOD>Sad</MOOD>
         <MOODVAL>9</MOODVAL>
-        <IMGSRC>/assets/titanic.jpg</IMGSRC>
+        <IMGSRC>assets/titanic.jpg</IMGSRC>
     </FILM>
     <FILM>
         <TITLE>Interstellar</TITLE>
         <MOOD>Awake</MOOD>
         <MOODVAL>8</MOODVAL>
-        <IMGSRC>/assets/is.jpg</IMGSRC>
+        <IMGSRC>assets/is.jpg</IMGSRC>
     </FILM>
     <FILM>
         <TITLE>21/22 Jump Street</TITLE>
         <MOOD>Happy</MOOD>
         <MOODVAL>8</MOODVAL>
-        <IMGSRC>/assets/21js.jpg</IMGSRC>
+        <IMGSRC>assets/21js.jpg</IMGSRC>
     </FILM>
     <FILM>
         <TITLE>Nanny McPhee</TITLE>
         <MOOD>Calm</MOOD>
         <MOODVAL>7</MOODVAL>
-        <IMGSRC>/assets/mcphee.jpg</IMGSRC>
+        <IMGSRC>assets/mcphee.jpg</IMGSRC>
     </FILM>
     <FILM>
         <TITLE>Avatar</TITLE>
         <MOOD>Awake</MOOD>
         <MOODVAL>6</MOODVAL>
-        <IMGSRC>/assets/avatar.jpg</IMGSRC>
+        <IMGSRC>assets/avatar.jpg</IMGSRC>
     </FILM>
     <FILM>
         <TITLE>Frozen</TITLE>
         <MOOD>Calm</MOOD>
         <MOODVAL>6</MOODVAL>
-        <IMGSRC>/assets/frozen.jpg</IMGSRC>
+        <IMGSRC>assets/frozen.jpg</IMGSRC>
     </FILM>
     <FILM>
         <TITLE>The Conjuring</TITLE>
         <MOOD>Scared</MOOD>
         <MOODVAL>8</MOODVAL>
-        <IMGSRC>/assets/conj.jpg</IMGSRC>
+        <IMGSRC>assets/conj.jpg</IMGSRC>
     </FILM>
     <FILM>
         <TITLE>Grown Ups</TITLE>
         <MOOD>Happy</MOOD>
         <MOODVAL>7</MOODVAL>
-        <IMGSRC>/assets/grownups.jpg</IMGSRC>
+        <IMGSRC>assets/grownups.jpg</IMGSRC>
     </FILM>
     <FILM>
         <TITLE>Mamma Mia!</TITLE>
         <MOOD>Calm</MOOD>
         <MOODVAL>9</MOODVAL>
-        <IMGSRC>/assets/mmia.jpg</IMGSRC>
+        <IMGSRC>assets/mmia.jpg</IMGSRC>
     </FILM>
 </CATALOG>
